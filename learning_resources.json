@@ -1,0 +1,38 @@
+{
+  "python": {
+    "title": "Python Programming",
+    "youtube": "https://www.youtube.com/results?search_query=python+full+course+for+beginners",
+    "documentation": "https://docs.python.org/3/tutorial/index.html",
+    "practice": "https://www.kaggle.com/learn/python"
+  },
+  "sql": {
+    "title": "SQL for Data Analysis",
+    "youtube": "https://www.youtube.com/results?search_query=sql+full+course+for+beginners",
+    "documentation": "https://sqlbolt.com/",
+    "practice": "https://www.kaggle.com/learn/intro-to-sql"
+  },
+  "excel": {
+    "title": "Microsoft Excel",
+    "youtube": "https://www.youtube.com/results?search_query=excel+full+course+for+beginners",
+    "documentation": "https://support.microsoft.com/en-us/excel",
+    "practice": "https://www.excel-easy.com/"
+  },
+  "visualisation": {
+    "title": "Data Visualisation (Power BI / Tableau / Seaborn)",
+    "youtube": "https://www.youtube.com/results?search_query=data+visualization+power+bi+tutorial+for+beginners",
+    "documentation": "https://seaborn.pydata.org/tutorial.html",
+    "practice": "https://www.kaggle.com/learn/data-visualization"
+  },
+  "statistics": {
+    "title": "Statistics and Probability",
+    "youtube": "https://www.youtube.com/results?search_query=statistics+for+data+science+full+course",
+    "documentation": "https://openstax.org/details/books/introductory-statistics-2e",
+    "practice": "https://www.khanacademy.org/math/statistics-probability"
+  },
+  "communication": {
+    "title": "Communication and Interview Skills",
+    "youtube": "https://www.youtube.com/results?search_query=how+to+crack+campus+placement+interview",
+    "documentation": "https://www.indeed.com/career-advice/interviewing",
+    "practice": "https://www.pramp.com/"
+  }
+}
